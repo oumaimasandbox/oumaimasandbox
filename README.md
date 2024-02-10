@@ -8,6 +8,8 @@ I'm Oumaima Bendidi, a dedicated Artificial Intelligence Engineer Student  @Unit
 - 🤔 I’m looking for resources and guidance on AI ethics and its applications in autonomous vehicles.
 - 📫 How to reach me: You can reach me at oumaimabendidi15@gmail.com or connect with me on https://www.linkedin.com/in/oumaima-bendidi-14041a1b6/.
 - 😄 Pronouns: She/Her
-- ![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimasandbox_icons=true&theme=radical)
-Welcome to my repository of ideas and a portfolio of projects where I break down complex problems into AI-driven solutions. Let's connect and build the future together!
+
+- Welcome to my repository of ideas and a portfolio of projects where I break down complex problems into AI-driven solutions. Let's connect and build the future together!
 -->
+
+- ![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimasandbox=true&theme=radical)
