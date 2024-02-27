@@ -12,10 +12,7 @@ I'm Oumaima Bendidi, a dedicated Artificial Intelligence Engineer Student  @Unit
 - Welcome to my repository of ideas and a portfolio of projects where I break down complex problems into AI-driven solutions. Let's connect and build the future together!
 -->
 
-
-  
-![Oumaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimasandbox&show_icons=true&theme=radical)
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Oumaima_bendidi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/oumaima-bendidi-14041a1b6/))
